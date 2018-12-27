@@ -19,7 +19,7 @@ confinement: strict
 grade: stable
 
 apps:
-    mongo33:
+    mongo:
         command: bin/run.sh mongo
 
     mongod:
