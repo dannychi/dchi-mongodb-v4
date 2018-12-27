@@ -16,6 +16,7 @@ description: |
     High performance, scalability, and reasonable depth of functionality
     are the goals for the project.
 confinement: strict
+grade: stable
 
 apps:
     mongo33:
