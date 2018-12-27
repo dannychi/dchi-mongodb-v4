@@ -17,6 +17,7 @@ description: |
     are the goals for the project.
 confinement: strict
 grade: stable
+architectures: [amd64]
 
 apps:
     mongo:
