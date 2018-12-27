@@ -66,5 +66,5 @@ parts:
             - libssl1.0.0
 
     content:
-        source: ../content
+        source: ./content
         plugin: dump
