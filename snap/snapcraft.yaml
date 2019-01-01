@@ -64,8 +64,6 @@ parts:
     mongodb:
         source: https://fastdl.mongodb.org/osx/mongodb-osx-ssl-x86_64-4.0.5.tgz
         plugin: dump
-        stage-packages:
-            - libssl1.0.0
 
     content:
         source: ./content
